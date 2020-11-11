@@ -77,3 +77,9 @@ nav svg {
     width: 1em;
     cursor: pointer;
 }
+
+nav ul li a {
+    display: block;
+    padding: .6em;
+    font-size: 1.8em;
+}
