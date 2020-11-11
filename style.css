@@ -23,3 +23,17 @@ header{
     justify-content: center;
     align-items: center;
 }
+
+header svg {
+    width: 1.5em;
+    cursor: pointer;
+}
+
+a {
+    color: #ffff;
+}
+
+ul li {
+    list-style: none;
+    paddi
+}
