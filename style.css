@@ -68,3 +68,7 @@ nav {
     left: 0;
     top: 0;
 }
+
+nav p {
+    margin-bottom: 0;
+}
