@@ -11,8 +11,15 @@ html, body {
 
 body{
     background: #3b4acd;
-    color: ;
+    color: #A5B2D3;
     padding: .5em;
     height: 100vh;
+    font-family: serif;
     text-align: center;
+}
+
+header{
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
