@@ -2,6 +2,17 @@
 
 * {
     box-sizing: border-box;
+}
+
+html, body {
     margin: 0;
     padding: 0;
+}
+
+body{
+    background: #3b4acd;
+    color: ;
+    padding: .5em;
+    height: 100vh;
+    text-align: center;
 }
