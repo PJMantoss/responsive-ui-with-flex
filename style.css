@@ -52,3 +52,17 @@ a.cta-btn {
     font-size: .6em;
     font-weight: bold;
 }
+
+/*Navigation*/
+
+nav {
+    position: fixed;
+    background: #576483;
+    text-align: center;
+    transform: translateX(-50%);
+    transition: .3s ease;
+    opacity: 0;
+    visibility: hidden;
+    left: 0;
+    top: 0;
+}
