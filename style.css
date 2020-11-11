@@ -33,7 +33,18 @@ a {
     color: #ffff;
 }
 
-ul li {
+ul {
     list-style: none;
-    paddi
+    padding: 0;
+}
+
+a.logo {
+    font-weight: bold;
+    margin: 0 1em;
+}
+
+a.cta-btn {
+    background: #FC85AE;
+    color: #303A52;
+    padding: 0;
 }
