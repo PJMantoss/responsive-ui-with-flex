@@ -93,3 +93,10 @@ nav ul li a {
     opacity: 1;
     transform: translateX(0);
 }
+
+/* Main Section */
+
+h1 {
+    color: white;
+    margin-top: 1em;
+}
