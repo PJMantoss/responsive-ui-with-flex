@@ -61,8 +61,8 @@ nav {
     text-align: center;
     transform: translateX(-50%);
     transition: all .3s;
-    opacity: 0;
-    visibility: hidden;
+    /* opacity: 0; */
+    /* visibility: hidden; */
     width: 80%;
     height: 100vh;
     left: 0;
@@ -80,6 +80,16 @@ nav svg {
 
 nav ul li a {
     display: block;
-    padding: .6em;
+    padding: .2em;
     font-size: 1.8em;
+}
+
+.selected {
+    background:#9E579D;
+}
+
+.open-nav{
+    visibility: unset;
+    opacity: 1;
+    transform: translateX(0);
 }
