@@ -122,3 +122,11 @@ ul.data li p {
 ul.data li:last-child p {
     margin-bottom: 0;
 }
+
+ul.secondary {
+    margin-top: 2em;
+}
+
+ul.secondary li p {
+    font-size: 1.3em;
+}
