@@ -118,3 +118,7 @@ ul.data li p {
     font-size: 1.8em;
     margin: .3em 0 1em;
 }
+
+ul.data li:last-child p {
+    margin-bottom: 0;
+}
