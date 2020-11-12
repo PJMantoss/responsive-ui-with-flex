@@ -130,3 +130,7 @@ ul.secondary {
 ul.secondary li p {
     font-size: 1.3em;
 }
+
+main {
+    border: 1px solid #fff;
+}
