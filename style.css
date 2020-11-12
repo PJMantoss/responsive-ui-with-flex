@@ -100,3 +100,8 @@ h1 {
     color: white;
     margin-top: 1em;
 }
+
+.panel {
+    background: #39445F;
+    border-radius: .3em;
+}
