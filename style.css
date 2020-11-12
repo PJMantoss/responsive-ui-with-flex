@@ -132,5 +132,5 @@ ul.secondary li p {
 }
 
 main {
-    border: 1px solid #fff;
+    border: unset;
 }
