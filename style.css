@@ -29,6 +29,10 @@ header svg {
     cursor: pointer;
 }
 
+p {
+    line-height: 1.4em;
+}
+
 a {
     color: #ffff;
     text-decoration: none;
