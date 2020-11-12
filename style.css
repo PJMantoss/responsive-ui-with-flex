@@ -105,3 +105,9 @@ h1 {
     background: #39445F;
     border-radius: .3em;
 }
+
+h3 {
+    color: #FC85AE;
+    margin: 0;
+    font-size: 2em;
+}
