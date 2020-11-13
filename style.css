@@ -115,7 +115,7 @@ h1 {
 h3 {
     color: #FC85AE;
     margin: 0;
-    font-size: 2em;
+    font-size: unset;
 }
 
 ul.data li p {
