@@ -67,8 +67,8 @@ nav {
     text-align: left;
     transform: translateX(-50%);
     transition: all .3s;
-    /* opacity: 0; */
-    /* visibility: hidden; */
+    opacity: 0;
+    visibility: hidden;
     width: 80%;
     height: 100vh;
     left: 0;
