@@ -64,7 +64,7 @@ a.cta-btn {
 nav {
     position: fixed;
     background: #2C354A;
-    text-align: center;
+    text-align: left;
     transform: translateX(-50%);
     transition: all .3s;
     /* opacity: 0; */
