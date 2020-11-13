@@ -140,3 +140,7 @@ ul.secondary li p {
 main {
     border: unset;
 }
+
+.inner-wrapper {
+    padding: 1em;
+}
