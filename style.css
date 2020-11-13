@@ -146,3 +146,12 @@ main {
 .inner-wrapper {
     padding: 1em;
 }
+
+/*Large Screens*/
+
+@media (min-width: 420px){
+    body {
+        padding: 1em;
+        text-align: left;
+    }
+}
