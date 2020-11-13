@@ -52,7 +52,7 @@ a.cta-btn {
     display: inline-block;
     background: #FC85AE;
     color: #303A52;
-    padding: 1em;
+    padding: .2em .4em;
     margin-left: auto;
     font-size: .6em;
     font-weight: bold;
