@@ -159,4 +159,8 @@ main {
         display: flex;
         flex-wrap: wrap;
     }
+
+    ul.data li {
+        flex: 0 0 50%;
+    }
 }
