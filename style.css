@@ -110,6 +110,8 @@ h1 {
 .panel {
     background: #39445F;
     border-radius: .3em;
+    padding: .5em 1em;
+    margin-bottom: 2em;
 }
 
 h3 {
