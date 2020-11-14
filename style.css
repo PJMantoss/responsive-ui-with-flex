@@ -244,4 +244,8 @@ main {
     a.logo {
         margin: 0;
     }
+
+    svg {
+        display: none;
+    }
 }
