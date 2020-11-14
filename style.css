@@ -169,4 +169,8 @@ main {
     ul.data {
         justify-content: center;
     }
+
+    .panel ul.data li {
+        flex: 0 0 33%;
+    }
 }
