@@ -217,5 +217,6 @@ main {
         grid-template-areas: 
              "sidebar header"
              "sidebar main";
+        padding: 0;
     }
 }
