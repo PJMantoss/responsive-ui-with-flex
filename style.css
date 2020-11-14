@@ -260,4 +260,6 @@ main {
     right: 0;
     top: 0;
     background-color: #E6E6E6;
+    padding: .3em;
+    font-size: .85em;
 }
