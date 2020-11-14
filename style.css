@@ -219,4 +219,8 @@ main {
              "sidebar main";
         padding: 0;
     }
+
+    header, main {
+        padding: 1.5em;
+    }
 }
