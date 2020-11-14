@@ -229,5 +229,7 @@ main {
         opacity: 1;
         visibility: unset;
         transform: translateX(0);
+        width: 100%;
+        position: unset;
     }
 }
