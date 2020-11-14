@@ -232,4 +232,8 @@ main {
         width: 100%;
         position: unset;
     }
+
+    header {
+        grid-area: header;
+    }
 }
