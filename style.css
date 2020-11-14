@@ -195,4 +195,16 @@ main {
     .col {
         flex: 0 0 48%;
     }
+
+    .secondary {
+        margin-left: 3em;
+    }
+
+    ul.secondary {
+        margin-top: 0;
+    }
+
+    nav {
+        width: 30%;
+    }
 }
