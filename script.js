@@ -22,3 +22,5 @@ var onResize = function(){
         width.classList.remove("display-width");
     }, 2000)
 }
+
+window.addEventListener("resize", onresize);
