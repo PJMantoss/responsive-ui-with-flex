@@ -173,4 +173,8 @@ main {
     .panel ul.data li {
         flex: 0 0 33%;
     }
+
+    .panel ul.data li p{
+        margin-bottom: 0;
+    }
 }
