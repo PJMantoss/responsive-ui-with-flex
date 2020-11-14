@@ -240,4 +240,8 @@ main {
     main {
         grid-area: main;
     }
+
+    a.logo {
+        margin: 0;
+    }
 }
