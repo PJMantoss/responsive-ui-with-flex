@@ -225,7 +225,7 @@ main {
     }
 
     nav {
-        grid-area: sdiebar;
+        grid-area: sidebar;
         opacity: 1;
         visibility: unset;
         transform: translateX(0);
