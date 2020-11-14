@@ -191,4 +191,8 @@ main {
     .columns {
         display: flex;
     }
+
+    .col {
+        flex: 0 0 48%;
+    }
 }
