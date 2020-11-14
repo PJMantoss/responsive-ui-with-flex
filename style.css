@@ -214,5 +214,8 @@ main {
         display: grid;
         grid-template-columns: 200px auto;
         grid-template-rows: 70px auto;
+        grid-template-areas: 
+             "sidebar header"
+             "sidebar main";
     }
 }
