@@ -177,4 +177,8 @@ main {
     .panel ul.data li p{
         margin-bottom: 0;
     }
+
+    nav {
+        width: 40%;
+    }
 }
