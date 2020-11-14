@@ -249,3 +249,7 @@ main {
         display: none;
     }
 }
+
+.width-container {
+    display: none;
+}
