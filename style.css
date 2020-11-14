@@ -213,5 +213,6 @@ main {
     body {
         display: grid;
         grid-template-columns: 200px auto;
+        grid-template-rows: 70px auto;
     }
 }
