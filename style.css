@@ -164,3 +164,9 @@ main {
         flex: 0 0 50%;
     }
 }
+
+@media (min-width: 550px){
+    ul.data {
+        justify-content: center;
+    }
+}
