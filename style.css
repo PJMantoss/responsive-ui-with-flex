@@ -223,4 +223,9 @@ main {
     header, main {
         padding: 1.5em;
     }
+
+    nav {
+        grid-area: sdiebar;
+        opacity: 1;
+    }
 }
