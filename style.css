@@ -212,5 +212,6 @@ main {
 @media (min-width: 850px){
     body {
         display: grid;
+        grid-template-columns: 200px auto;
     }
 }
