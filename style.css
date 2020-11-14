@@ -253,3 +253,9 @@ main {
 .width-container {
     display: none;
 }
+
+.display-width{
+    position: absolute;
+    display: block;
+    right: 0;
+}
